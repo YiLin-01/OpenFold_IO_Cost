@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+__pycache__/
+*.egg-info
+build
+dist
+
+# files from script downloads
+
+cutlass*
+
+openfold/resources/*
+tests/test_data/sample_feats.pickle.gz
+tests/test_data/sample_feats.pickle
